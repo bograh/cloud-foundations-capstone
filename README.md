@@ -1,4 +1,4 @@
-# Cloud Foundations Capstone: AWS Solution Design & Evaluation
+# Simplified Arch. Lab: Design and Evaluate an AWS Solution Using the Well-Architected and Cloud Adoption Frameworks
 
 ## Project Overview
 This project designs and evaluates a robust, scalable, and secure AWS solution for a **High Availability Web Application**. The goal is to migrate an on-premises workload to the cloud to improve reliability, scalability, and operational efficiency while optimizing costs. The solution leverages AWS managed services to reduce administrative overhead and adheres to the AWS Well-Architected Framework.
